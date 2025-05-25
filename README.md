@@ -4,8 +4,6 @@
 
 **Author:** Dinesh, Junaid, and Shahzan
 
-**Date:** 2023-10-19
-
 **Technology:** C#, .NET Framework, Console Application
 
 **Overview:** This project implements an R-Way Trie data structure in C# that efficiently stores and retrieves strings with tree-like properties. It involves using array-based nodes to create a trie structure that supports insertion, searching, and prefix matching operations on words loaded from a text file.
@@ -46,21 +44,3 @@ The primary data structure used is an **R-Way Trie**. This is a special data str
 **Operation:** Traverses the trie to find all words that start with the given prefix.  
 **Time Complexity:** O(p + m) for prefix match
 
----
-
-## Testing:
-
-**Case 1:**  
-Input: cock  
-Expected Output: A lot of Words  
-Actual Output: Successfully displayed multiple words starting with "cock"
-
-**Case 2:**  
-Input: ui  
-Expected Output: 8 words  
-Actual Output: uily, uinal, uintahite, uintaite, uintaites, uintathere, uintjie, uitspan
-
-**Case 3:**  
-Input: hw  
-Expected Output: 6 words  
-Actual Output: hw-, hwa, hwan, hwt, hwy, hwyl
