@@ -2,7 +2,7 @@
 
 **Project Title:** Trie Data Structure Implementation
 
-**Author:** Dinesh, Junaid, and Shahzan
+**Author:** Dinesh, Junaid, and Shahzan(Group Project)
 
 **Technology:** C#, .NET Framework, Console Application
 
@@ -18,7 +18,7 @@
 
 ## Implementation
 
-The primary data structure used is an **R-Way Trie**. This is a special data structure that stores strings with the properties of a tree. The code consists of the RWayTrieCode class which implements the following: Insert, Search, and PrefixMatch.
+The primary data structure used is an **Trie**. This is a special data structure that stores strings with the properties of a tree. The code consists of the RWayTrieCode class which implements the following: Insert, Search, and PrefixMatch.
 
 ### RWayTrieNode Class:
 **Description:** Represents a node in R-Way Trie, containing an array of child nodes and a boolean flag indicating the end of a word.
