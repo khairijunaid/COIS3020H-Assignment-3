@@ -1,12 +1,12 @@
-# RWayTrie: R-Way Trie Implementation in C#
+# RWayTrie: Trie Implementation in C#
 
-**Project Title:** R-Way Trie Data Structure Implementation
+**Project Title:** Trie Data Structure Implementation
 
 **Author:** Dinesh, Junaid, and Shahzan
 
 **Technology:** C#, .NET Framework, Console Application
 
-**Overview:** This project implements an R-Way Trie data structure in C# that efficiently stores and retrieves strings with tree-like properties. It involves using array-based nodes to create a trie structure that supports insertion, searching, and prefix matching operations on words loaded from a text file.
+**Overview:** This project implements an Trie data structure in C# that efficiently stores and retrieves strings with tree-like properties. It involves using array-based nodes to create a trie structure that supports insertion, searching, and prefix matching operations on words loaded from a text file.
 
 **Key Features:** This project showcases skills in advanced data structures and algorithms using C#. It utilizes an R-Way Trie with 126-character support to create efficient string storage and retrieval systems. It demonstrates the ability to handle file I/O operations, implement interactive console interfaces, and optimize search operations for large word datasets.
 
