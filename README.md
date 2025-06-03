@@ -1,5 +1,7 @@
 # RWayTrie: Trie Implementation in C#
 
+**Done For:** COIS3020H: Data Structures and Algorithms II, Trent University
+
 **Project Title:** Trie Data Structure Implementation
 
 **Author:** Dinesh, Junaid, and Shahzan(Group Project)
